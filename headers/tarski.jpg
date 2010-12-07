@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Error 404 &middot; Tarski</title>
+    <link rel="alternate" type="application/rss+xml" title="Tarski &raquo; Feed" href="http://tarskitheme.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tarski &raquo; Comments Feed" href="http://tarskitheme.com/comments/feed/" />
+<meta name="wp_theme" content="Tarski 2.7.1">
+<meta name="description" content="An elegant, flexible WordPress theme">
+<meta name="robots" content="all">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<link rel="stylesheet" href="http://tarskitheme.com/wp/wp-content/themes/tarski-site/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://tarskitheme.com/wp/wp-content/themes/tarski/library/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="http://tarskitheme.com/wp/wp-content/themes/tarski/styles/classic.css" type="text/css" media="all">
+
+<script type="text/javascript" src="http://tarskitheme.com/wp/wp-content/themes/tarski/app/js/tarski.js"></script>
+<script type="text/javascript" src="http://tarskitheme.com/wp/wp-includes/js/comment-reply.js"></script>
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tarskitheme.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tarskitheme.com/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Tarski' href='http://tarskitheme.com/' />
+<meta name="generator" content="WordPress 3.0.2" />
+</head>
+
+<body id="404" class="error404 centre classic">
+
+<div id="wrapper" class="tarski">
+    <div id="header">
+        <div id="header-image"><a title="Return to main page" rel="home" href="http://tarskitheme.com/"><img alt="Tarski" src="http://tarskitheme.com/wp/wp-content/themes/tarski-site/headers/tarski.jpg"></a></div>
+
+<div id="navigation" class="clearfix">
+<ul class="primary xoxo">
+<li><a id="nav-home" href="http://tarskitheme.com/" rel="home">Blog</a></li>
+<li><a id="nav-6-help" href="http://tarskitheme.com/help/">Documentation &amp; Help</a></li>
+<li><a id="nav-2-about" href="http://tarskitheme.com/about/">About</a></li>
+<li><a id="nav-link-10" title="Support forum for Tarski"  href="http://tarskitheme.com/forum/">Forum</a></li>
+</ul>
+
+<div class="secondary">
+	<p><a class="feed" href="http://tarskitheme.com/feed/">Subscribe to feed</a></p>
+</div></div>    </div>
+
+    <div id="content" class="clearfix">
+
+
+
+<div class="primary-span entry">
+
+	<div class="meta">
+		<h1 class="title">Error 404</h1>
+	</div>
+
+	<div class="content">
+		<p>The page you are looking for does not exist; it may have been moved, or removed altogether. You might want to try the search function or return to the <a href="http://tarskitheme.com/">front page</a>.</p>
+	</div>
+
+	
+</div> <!-- /primary-span -->
+
+
+
+</div> <!-- /main content -->
+
+
+
+<div id="footer" class="clearfix">
+	
+	<div class="secondary">
+		
+		<br />
+<b>Notice</b>:  Undefined index: title in <b>/var/www/tarskitheme.com/public/wp/wp-includes/default-widgets.php</b> on line <b>181</b><br />
+<div id="search-2" class="widget widget_search"><div class="searchbox">
+    <form method="get" id="searchform" action="http://tarskitheme.com"><fieldset>
+        <label for="s" id="searchlabel">Search this site</label>
+        <input type="search" placeholder="Search this site" value="" name="s" id="s">
+        <input type="submit" id="searchsubmit" value="Search">
+    </fieldset></form>
+</div>
+</div>		
+	</div> <!-- /secondary -->
+	
+	<div class="primary">
+		
+		<div id="text-76745083" class="widget widget_text">			<div class="textwidget"><div class="content">
+<p><a href="http://tarskitheme.com/about/">Tarski</a> is a <a href="http://wordpress.org/">WordPress</a> theme by <a href="http://extralogical.net/">Ben Eastaugh</a> and <a href="http://ceejayoz.com/">Chris Sternal-Johnson</a>.</p>
+<p><a href="http://tarskitheme.com/help/">Tarski’s documentation</a> is full of useful stuff, while the <a href="http://tarskitheme.com/credits/">Credits &#038; Thanks</a> page recognises those who’ve helped out with Tarski.</p>
+<p>Support queries are only answered in <a href="http://tarskitheme.com/forum/">the forum</a>; please don&#8217;t post them in comment threads or emails.
+</div>
+</div>
+		</div>		
+	</div> <!-- /primary -->
+	
+	<div id="theme-info" class="clearfix">
+		
+		<div class="secondary">
+	<p><a class="feed" href="http://tarskitheme.com/feed/">Subscribe to feed</a></p>
+</div><div class="primary content">
+    <p>Powered by <a href="http://wordpress.org/">WordPress</a> and <a href="http://tarskitheme.com/">Tarski</a></p>
+</div>
+		
+	</div> <!-- /theme-info -->
+	
+</div> <!-- /footer -->
+
+</div></body></html>
