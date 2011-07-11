@@ -57,9 +57,15 @@ function tarski_site_comment_guidelines() {
 GUIDELINES;
 }
 
+function tarski_site_stylesheet() {
+    if (!is_admin()) wp_enqueue_style('tarski_site_stylesheet',
+        get_stylesheet_directory_uri() . '/style.css');
+}
+
 add_shortcode('version', 'tarski_site_version_shortcode');
 add_shortcode('plugin', 'tarski_site_plugin_shortcode');
 
+add_action('init', 'tarski_site_stylesheet');
 add_action('comment_form', 'tarski_site_comment_guidelines');
 
 /**
